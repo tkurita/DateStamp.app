@@ -8,10 +8,8 @@
 	<string>English</string>
 	<key>CFBundleExecutable</key>
 	<string>applet</string>
-	<key>CFBundleGetInfoString</key>
-	<string>1.1.3 copyright 2005-2013, Tetsuro KURITA</string>
 	<key>CFBundleIconFile</key>
-	<string>applet</string>
+	<string>DateStamp</string>
 	<key>CFBundleIdentifier</key>
 	<string>net.script-factory.DateSamp</string>
 	<key>CFBundleInfoDictionaryVersion</key>
@@ -21,11 +19,11 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.1.4</string>
+	<string>1.1.3</string>
 	<key>CFBundleSignature</key>
 	<string>aplt</string>
 	<key>CFBundleVersion</key>
-	<string>1.1.4</string>
+	<string>1.1.3</string>
 	<key>LSMinimumSystemVersionByArchitecture</key>
 	<dict>
 		<key>x86_64</key>
@@ -52,7 +50,7 @@
 		<key>positionOfDivider</key>
 		<real>377</real>
 		<key>savedFrame</key>
-		<string>347 199 945 666 0 0 1440 877 </string>
+		<string>188 193 945 666 0 0 1440 877 </string>
 		<key>selectedTab</key>
 		<string>description</string>
 	</dict>
