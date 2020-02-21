@@ -19,11 +19,11 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.2</string>
+	<string>1.2.1</string>
 	<key>CFBundleSignature</key>
 	<string>aplt</string>
 	<key>CFBundleVersion</key>
-	<string>1.2</string>
+	<string>7</string>
 	<key>LSMinimumSystemVersionByArchitecture</key>
 	<dict>
 		<key>x86_64</key>
@@ -34,7 +34,7 @@
 	<key>LSUIElement</key>
 	<true/>
 	<key>NSHumanReadableCopyright</key>
-	<string>Copyright 2005-2019, Tetsuro KURITA</string>
+	<string>Copyright 2005-2020, Kuria Tetsuro</string>
 	<key>WindowState</key>
 	<dict>
 		<key>bundleDividerCollapsed</key>
@@ -48,7 +48,7 @@
 		<key>name</key>
 		<string>ScriptWindowState</string>
 		<key>positionOfDivider</key>
-		<real>377</real>
+		<real>520</real>
 		<key>savedFrame</key>
 		<string>51 207 945 666 0 0 1440 877 </string>
 		<key>selectedTab</key>
